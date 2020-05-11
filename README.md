@@ -49,6 +49,8 @@ How to use
   $output = curl_exec($ch);
   
 ```
+##### Any Queries? or Feedback, please let me know by opening a [new issue](https://github.com/myinnos/Telegram-Bot-PHP/issues/new)!
+
 ## Contact
 #### Prabhakar Thota
 * :globe_with_meridians: Website: [myinnos.in](http://www.myinnos.in "Prabhakar Thota")
